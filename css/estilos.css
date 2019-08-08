@@ -51,3 +51,16 @@ header .menu .c-3{background: #003855}
 header .menu .c-1:hover{background: #1ba0ef}
 header .menu .c-2:hover{background: #00426a}
 header .menu .c-3:hover{background: #002d44}
+
+.carousel-inner > .item > img {
+  width:1200px;
+  height:400px;
+}
+
+slider
+.slider{
+	margin-bottom: 40px;
+}
+.slider .col{
+	padding: 0;
+}
